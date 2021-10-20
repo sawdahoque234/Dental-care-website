@@ -1,0 +1,12 @@
+.service {
+  background-color: rgb(226, 241, 241);
+  border-radius: 20px;
+}
+.service img {
+  width: 100%;
+}
+#body2 {
+  background-color: #006d95;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

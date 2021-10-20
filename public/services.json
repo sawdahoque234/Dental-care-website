@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "TEETH WHITENING",
+        "description": "Teeth whitening is a popular procedure to make teeth whiter and brighter, and therefore more attractive. Bleaching can be used to whitening stained and discolored teeth.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_77455267-320x200.jpg"
+    },
+    {
+        "id": 2,
+        "name": "INVISALIGN",
+        "description": "The Invisalign treatment consists of a series of clear, snap-on, custom fit, removable mouth trays that apply a controlled amount of force to your teeth, forcing them to shift.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_124314160-320x200.jpg"
+    },
+    {
+        "id": 3,
+        "name": "CROWNS",
+        "description": "Crowns and bridges are used to restore and enhance teeth that are damaged, or to take the place of missing teeth. A crown, also referred to as a cap, is used to entirely cover a damaged tooth.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_142427935-320x200.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DENTISTRY",
+        "description": "Custom designed mouthguards and nightguards are made of flexible plastic and molded to fit the shape of your teeth. Mouthguards are recommended to protect the jaw and teeth during physical activity.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_270756593-320x200.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DENTAL IMPLANT",
+        "description": "A dental implant is an ideal tooth restoration for people who are missing one or more teeth as a result of injury, periodontal disease, or any other reason. A dental implant is a metal post that a periodontist.",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_156787064-320x200.jpg"
+    },
+    {
+        "id": 6,
+        "name": "DENTAL SERVICES",
+        "description": "Taking care of your teeth and gums not only keeps your smile bright and your breath clean, it is essential for the preservation of good general health and may help to prevent certain types of oral cancers. ",
+        "img": "http://medicare.bold-themes.com/dentist/wp-content/uploads/sites/3/2015/12/shutterstock_192351722-320x200.jpg"
+    }
+]
