@@ -11,7 +11,7 @@ const Footer = () => {
   
   <Row id="footer1" className="mt-5">
 <Col><p href="#home" className="fst-italic fw-bolder text-white text-decoration-underline mx-3 mt-3"><img src={logo} id="logo" alt="" /> DentalCare</p></Col>
-    <Col className="text-white mt-3">All Right Reserved.@dentalcare 2021</Col>
+<Col className="text-white mt-3">All Right Reserved.@dentalcare 2021</Col>
                 <Col className="text-white mt-3">
                    
 <FontAwesomeIcon icon={faEnvelope } className="mx-2"/>Email:dcmail@email.com
