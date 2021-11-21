@@ -1,6 +1,6 @@
 # My Dental Care
 
-This project was bootstrapped with [Create React App](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-sawdahoque234).
+This project was bootstrapped with [Create React App](https://confident-mclean-a0b196.netlify.app/).
 
 ## This is a React Website
 
