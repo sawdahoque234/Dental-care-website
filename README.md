@@ -1,6 +1,6 @@
 # My Dental Care
 
-This project was bootstrapped with [Create React App](https://confident-mclean-a0b196.netlify.app/).
+Dental Care [Live Site](https://confident-mclean-a0b196.netlify.app/).
 
 ## This is a React Website
 
