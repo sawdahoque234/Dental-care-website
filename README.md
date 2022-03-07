@@ -1,11 +1,11 @@
-# My Dental Care
+## My Dental Care
 
 Dental Care [Live Site](https://confident-mclean-a0b196.netlify.app/).
 
-## This is a React Website
+### This is a React Website
 
-#### .Here i use react,react-router,react-router-dom,vanila css and brootstrap framework
+* Here i use react,react-router,react-router-dom,vanila css and brootstrap framework
 
-#### . It is a RealWorld project any one can use it for her/him business or any other sites
+* It is a RealWorld project any one can use it for her/him business or any other sites
 
-#### .I use Firebase Authentication for emailpassword login and googlesignin
+* I use Firebase Authentication for emailpassword login and googlesignin
